@@ -21,10 +21,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raimbekova&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raimbekova&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raimbekova&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ### :wink: Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
