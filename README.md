@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Raimbekov Aldiyar | Software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
+  <h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Raimbekov Aldiyar | Software engineer | Network engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h1>
   
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </div>
@@ -20,6 +20,20 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
+
+### 🌐 Network:
+| Vendor        | Certification            |
+| ------------- |:------------------------:| 
+| Huawei        | HCIA-Datacome            | 
+| Huawei        | HCSA-Presales-IP Network | 
+| Huawei        | HCSA-Sales-IP Network    | 
+| Huawei        | HCSA-Sales-Storage       | 
+|               |                          | 
+| HPE           | Solution Foundations     |
+|               |                          | 
+| Infinidat     | Partner Ready            |
+| Infinidat     | Technical Foundations    |
+| Infinidat     |  Advanced Program        | 
 
 ### :wink: Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
