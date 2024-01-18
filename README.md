@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Aldiyar</h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hey! Nice to see you</h1>
 
 # 💻 Tech Stack:
 <div align="left">
