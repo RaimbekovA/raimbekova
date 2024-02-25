@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Languages and tools:
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Languages and tools
 Frontend:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -29,7 +29,7 @@ DB:
 </div>
 
 
-### 🌐 Network:
+### 🌐 Network
 | Vendor        | Certification            |
 | ------------- |:------------------------:| 
 | Huawei        | HCIA-Datacome            | 
