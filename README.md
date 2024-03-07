@@ -32,7 +32,7 @@ DB:
 ### 🌐 Network
 | Vendor        | Certification            |
 | ------------- |:------------------------:| 
-| Huawei        | HCIA-Datacome            | 
+| Huawei        | HCIA-Datacom             | 
 | Huawei        | HCSA-Presales-IP Network | 
 | Huawei        | HCSA-Sales-IP Network    | 
 | Huawei        | HCSA-Sales-Storage       | 
