@@ -31,7 +31,9 @@ DB:
 
 ### 🌐 Network
 | Vendor        | Certification            |
-| ------------- |:------------------------:| 
+| ------------- |--------------------------|
+| Cisco         | CCNP Enterprise          |
+|               |                          |
 | Huawei        | HCIA-Datacom             | 
 | Huawei        | HCSA-Presales-IP Network | 
 | Huawei        | HCSA-Sales-IP Network    | 
@@ -41,10 +43,9 @@ DB:
 |               |                          | 
 | Infinidat     | Partner Ready            |
 | Infinidat     | Technical Foundations    |
-| Infinidat     |  Advanced Program        | 
+| Infinidat     | Advanced Program         | 
 
-<!--- 
+
 ### :wink: Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
---->
 
