@@ -33,6 +33,8 @@ DB:
 | Vendor        | Certification            |
 | ------------- |--------------------------|
 | Cisco         | CCNP Enterprise          |
+| Cisco         | CCS - Enterprise Core    |
+| Cisco         | CCS - Enterprise Design  |
 |               |                          |
 | Huawei        | HCIA-Datacom             | 
 | Huawei        | HCSA-Presales-IP Network | 
